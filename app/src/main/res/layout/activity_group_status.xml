@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.chris.mcc_2017_g19.GroupStatusActivity">
+
+    <TextView
+        android:id="@+id/group_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/group_status_status"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/group_status_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/group_status_name"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/group_status" />
+
+    <TextView
+        android:id="@+id/group_status_expiration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/group_status_expiration"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/group_status_name" />
+
+    <TextView
+        android:id="@+id/group_status_members"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/group_status_members"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/group_status_expiration" />
+
+    <Button
+        android:id="@+id/group_status_add"
+        android:layout_width="92dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:onClick="addButton"
+        android:text="@string/group_status_add"
+        app:layout_constraintStart_toEndOf="@+id/group_status_expiration"
+        app:layout_constraintTop_toBottomOf="@+id/group_status_expiration" />
+
+    <ListView
+        android:id="@+id/group_status_member_list"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/group_status_members"
+        android:dividerHeight="0dp"
+        android:divider="@null" />
+
+    <TextView
+        android:id="@+id/group_status_expiration_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintLeft_toRightOf="@+id/group_status_expiration"
+        app:layout_constraintTop_toBottomOf="@+id/group_status_name" />
+
+    <TextView
+        android:id="@+id/group_status_name_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintLeft_toRightOf="@+id/group_status_expiration"
+        app:layout_constraintTop_toBottomOf="@+id/group_status" />
+
+    <TextView
+        android:id="@+id/group_status_expired_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:textColor="@color/primary"
+        app:layout_constraintLeft_toRightOf="@+id/group_status_expiration_value"
+        app:layout_constraintTop_toBottomOf="@+id/group_status_name" />
+
+</android.support.constraint.ConstraintLayout>

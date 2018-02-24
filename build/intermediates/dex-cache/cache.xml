@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_381a3e51e5affc2986fca41ea105bb93094f537b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/9e08311da975a36b6aa57d69cee4c16c52aef7d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_b01aeb8650361cc5a7052cb62dbc89a7a3ce4f91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/80e0cf7aa969d08596febbb4a669cfc8cb5391cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_3a22dfebf627c9e11d5113169166e89eb0fa5ac8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.7/8c6d3f76a0b8ed49e9d49a5af9c80c5fc2091677/rxjava-2.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8c6d3f76a0b8ed49e9d49a5af9c80c5fc2091677">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/rxjava-2.1.7_c2f83c24fb9af6f1aa904fdb2b39eb2aeb7f0d08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/89a67f4b78688285e20f6ef583fa04571556b8ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_186be6ef3e73933bfc042087ed4381b8c3694841.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/2a3467f44973e14f4a01d909253b047b1891506f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_24d43047fe90513789d57c3fbc734c436d2f9160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/3cbbd7e541ac460b72a75719983b4cf93b56f8fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_7df25691c9efe1f6921f7277dfa6bffa0d2116b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/bc58ed63d7b8cbb714d594323f969a5ccd5a367a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_659af7aa218dda25cc0290d319525a313c16e864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.2_ec5cb825f8b2f6d0589775da8bae6288ea014525.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb1b8bf6fdcb670e911a800a302486498ce01b04">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0fb5d97392952d147cdf09dab43ba00a7727c9dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/1af3161c73c484f37f8411b7b0f2e913826dda39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_88d539e84f31764c68edab4b418a2469b501d0e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_71d0dca56331d9717e08afc9110c39fc2572df9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_941d4ea3e3177a17b5b7be507eb8b9fb09684a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_12f1da2457d864eeadc311d5436b807d5fddefe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/core-3.2.1_6933f69f975d57a27667c18c8b990a02c25ef4c8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fa6483c03f8f9772bd973590193d9d042501b3fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/5b3f36f222b73e7ba433af583e3d7b552955a223/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a424dda1dfed15a9ca112aa128107b948e30e82">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_591b85afb11246f822752f09a6e747c51c919843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/eff05fb5e1e5b1eb00b2f017b3432489bb061dee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_54a0e4dc5f8c37e40b3d2662d715991f108c032d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/ebf3811b55673817b328ff4ac59bfed178a59fcc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_2af283d3a2b4c42ea2b34801b0f6d4546e1ea781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.1/84b4b7d1c4a238e7899972b7446c250691e65f1f/okhttp-3.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/okhttp-3.9.1_d9ad182d92ea07737298665abdb3a9c253ba90e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/fa8987f060bc666adf4244d6504768749bf7985a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_f725094b5068157ba891916d0e3d6c3a7289b437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/bf287094cd17f0b518ba38c029daca08cc90cb53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_c0f772b1720795e6614be73872d1b05892b9916c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/3abba6a7d3d5e91fdeb5745a780ed858f45f25cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_da7c0ac8ae838eb578c6088ee0c088fa51435a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/07a638a7ef9ed8040d1222af9e5589e6910b42f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_53ea31cc5b951909a01e1df6bec44b3004aafe32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/b7c2e45e9968c84ee2045df75dca5249abcbed72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_5fb8b8af9c54b9cfe9ce89f975732b711b578d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/357fcb255e3c058bb080068a27100274ee4cc93e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_14a4c43292211ff747a62e8a1d5ee38363fb34a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/e296775def95c5f47bb08246c9b961272e7f4e3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_a3cc4134f7f90afaa41def2201a8061629f24d32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/c8b008ffc9dcaf8e6b6a27274ee9df8a2f482f42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_335d647c426d2e6335a3ad25f205fead7fa8488d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/a820951f77135adac0bf3a694f52a7586db614e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_1b4fa942621939c0b2cbe9d3f3bf4ebce09254e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/okio-1.13.0_41c901464de141b2759cbaee9edc7cbe0f24cc7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/4604dd7c4e2efc4af3002ed1a05ca05f886e7df1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_d0de5ddb5df2be2e64d6c77bc184cc04a097c837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/7de7decf6136b8667187ef3c03e3d64a83b229fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_110bf0007a9a2f76f59491a71bc93e5498597d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_b249bc4b3bf5bbce989b91deb0d64eec00f7c73a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.2_1e94522a55a9b8b69d4e7aee539b85338d9466d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/6489879827befb12d4eedf8b519d12f4e824c712/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_f68c8fcafacd58debdc955839cbf1868142d7f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/924bd5a3f89b0d34b2932c5e9d0ca2b17456f3db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_1a30e328e519060d9bb4c2e9a17422e5c55f6bfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/fd7978c57ceed37cd6a4f697558ff1f9cbbedd6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_0110f45b6ee69e5bef47a13d98acc4b4ef46f209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/83525bb9590adae7bc5989bac9bdacf73ee1367b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_5021952641e69a16ca1e4a0203d584d197e5e464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.1/1b1c911686eb40179219466e6a59b634b9d7a748/reactive-streams-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b1c911686eb40179219466e6a59b634b9d7a748">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.1_601e187283138114ccff69a71ed8c4c715dc1bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/f134213915dd95cfb63a1ffd7c4757323612780f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_959352db4bb2bfddf6d192100a9c8e823f5265d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/a1a696ff4dab828cd7ad3ab24c71f83543e82edb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_9b2d85de4b6f539f74b68aa208e6ab222d36f064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/963ae5d8d07030073f48437cbb8c979d1d28e6dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_bcc81443a1fcb76462efab2328bec7cd70739839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/e21c21f5fbf49080035d335b8774e781c071bd34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_e8a34a48d514d9efc72c6cdac227acf4ab4335f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_fdca433c6c40d2c6161d6edac89be5a756371ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/711bcac36f4d7d8a3e5525c1b8d4f3cee100f9c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_8aa02046dacfb98615541b60d70f0cb0e486d718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/bedab73451f7c9429a64e95b6783cd00217b4791/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_1a25f95065f1482c3ef65efe81ef117979641b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/67626eddf1ac95f370630b6bcf8fce4908bc9a5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_21c105f065a928a8ab87530ce0873d2589911b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.android/build-cache/56ed2d3bdf605bfaa4ed1aa53ee6bc6b065bcc11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/alessiospallino/gitlab_projects/mcc-2017-g19/app/build/intermediates/pre-dexed/debug/classes_40a383d660691758e24aa1868c62f88185ad2b1e.jar" />
+    </item>
+
+</items>
