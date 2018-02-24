@@ -1,20 +1,4 @@
-Running the app from command line:
-
-Clone the git repository:  
-git clone git@version.aalto.fi:CS-E4100/mcc-2017-g19.git
-
-Navigate to the project folder: cd mcc-2017-g19
-
-
-Run build script: ./deploy.sh
-	  - the script will prompt user for input once to deploy the app (app.yaml), 	
-	      and once to deploy the cron job (cron.yaml), press ‘y’ on both times.	      
-
-
-Manually install the produced APK from app/build/outputs/apk
-
-
-
+Running the app is not possible since there is no Google engine account anymore. (It was provided by the Aalto University)
 
 Project files:
 The “AlbumsView” folder contains all the files that we used to create the folder view. Every album has two TextView(name of the album + number of images) and two ImageView(folder image + image of the cloud). All the view is created with one custom adapter, and all the albums are added dynamically. 
